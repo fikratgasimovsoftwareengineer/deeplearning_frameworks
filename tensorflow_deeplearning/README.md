@@ -8,3 +8,4 @@
 - Transfer Learning with Multiple Dimensional Dataset based on restaurant foods
 - YoloV5 prebuilt DL Model for 80 classes
 - YoloV5 Custom Training Model for Road Sign Detections 
+- Docker Installation and COnfiguration
