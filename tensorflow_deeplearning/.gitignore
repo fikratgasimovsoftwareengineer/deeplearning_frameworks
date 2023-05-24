@@ -7,3 +7,4 @@ YOLOV5_TRASH/yolov5s.pt
 YOLOV5_TRASH/archive/
 yolov5_custom/images
 resnet/images
+resnet/resnet_engine.trt
